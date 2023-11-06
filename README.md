@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" src="https://raw.githubusercontent.com/fosscord/fosscord/master/assets/logo_big_transparent.png" />
+  <img width="100" src="https://github.com/fosscord-alive/fosscord-server/blob/main/Logos/PNG/Circle.png?raw=true" />
 </p>
 <h1 align="center">Fosscord Server</h1>
 
